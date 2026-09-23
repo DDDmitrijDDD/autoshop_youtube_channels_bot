@@ -14,4 +14,4 @@ SHOP_ID = str(os.getenv("SHOP_ID"))
 rate = 1
 
 # id админов
-admins_id = [923162995, 8733693220]
+admins_id = []
