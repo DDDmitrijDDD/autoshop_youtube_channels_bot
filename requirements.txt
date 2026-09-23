@@ -1,0 +1,9 @@
+python-dotenv==1.0.0
+aiogram==3.25.0
+aiosqlite==0.19.0
+validators==0.22.0
+APScheduler==3.11.0
+loguru==0.7.3
+sqlalchemy==2.0.54
+pytz==2026.3.post1
+requests==2.34.2
